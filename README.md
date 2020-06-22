@@ -26,3 +26,10 @@
 
 
 # 开源项目
+* 基于beego框架的接口在线文档管理系统 https://github.com/lifei6671/mindoc
+* 开源文库系统 https://github.com/truthhun/DocHub
+* Go常用规范定义案例 https://github.com/zc2638/go-standard
+* 开源监控度量的看板系统 https://github.com/zc2638/go-standard
+* go应用开发的调试工具 https://github.com/derekparker/delve
+* 高并发、重量级爬虫软件 https://github.com/henrylee2cn/pholcus
+* Web分析 https://github.com/matomo-org/matomo
