@@ -1,6 +1,9 @@
 # golang
 (案例)
 
+
+
+
  爬虫步骤
 
 明确目标（确定在哪个网站搜索）
@@ -11,14 +14,18 @@
 
 处理数据（按照你的想法去处理）
 
-案例 
-
 案例一
 go_demo1
 go_demo2
 
 
+
+
 (文档)
+
+
+
+
 
 github库地址
 分享好的github库地址
@@ -40,6 +47,10 @@ yaml对Go语言的支持 https://github.com/go-yaml/yaml/tree/v2.2.7
 Codis是一个分布式Redis解决方案数据库代理 https://github.com/CodisLabs/codis
 
 用Go语言编写的markdown解析器 https://github.com/yuin/goldmark
+
+
+
+
 
 
 (项目)
