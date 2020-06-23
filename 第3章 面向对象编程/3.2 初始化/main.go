@@ -33,5 +33,4 @@ func main(){
    rect3:=&Rect{width: 100, height: 200}
    fmt.Println(rect1,rect2,rect3)
    fmt.Println(NewRect(0,0,0,0))
-   
 }
