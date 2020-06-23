@@ -24,7 +24,7 @@ func NewRect(x,y,width,height float64) *Rect{
     这一切非常自然，开发者也不需要分析在使用了new之后到底背后发生了多少事情。在Go
 	语言中，一切要发生的事情都直接可以看到。
 	在Go语言中，未进行显式初始化的变量都会被初始化为该类型的零值，例如bool类型的零
-	值为false，int类型的零值为0，string类型的零值为空字符串。
+	值为false，int类型的零值为 0，string类型的零值为空字符串。
 */
 func main(){
    rect1:=new (Rect)
